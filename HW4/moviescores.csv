@@ -1,0 +1,222 @@
+movie_name,critic_score,audience_score
+Original Sin,12,62
+Assassins,16,45
+Wild Wild West,17,28
+Lara Croft Tomb Raider,24,45
+Bone Collector,28,63
+I am Sam,34,87
+Cobra,35,50
+National Treasure,35,67
+Species,35,31
+The Time Traveler's Wife,37,59
+Hannibal,39,63
+Octopussy,42,48
+Planet of the Apes,45,27
+Bruce Almighty,48,57
+We are Marshall,49,79
+Meet Joe Black,51,81
+Shallow Hal,51,45
+The World is not Enough,51,50
+Bounce,52,33
+Notebook,52,85
+Out of Africa,52,84
+Troy,54,74
+Top Gun,54,84
+Mamma Mia,54,66
+Rambo,55,76
+American Wedding,55,63
+Mr & Mrs Smith,59,58
+W,59,42
+The Edge,60,70
+Mission Impossible,61,99
+Pretty Woman,62,68
+Proof,62,59
+Desperado,62,80
+Love Actually,63,73
+Contact,63,78
+Demolition Man,64,66
+An Affair to Remember,64,88
+Me-Myself & Irene,65,81
+Karate Kid,66,67
+Pursuit of Happyness,67,87
+American Psycho,67,85
+Unbreakable,68,77
+You've Got Mail,69,73
+Hitch,69,62
+Glory,69,69
+Les Miserables,70,79
+Men in Black,70,71
+The Thomas Crown Affair,70,77
+Meet the Parents,70,79
+Forrest Gump,71,95
+The Fifth Element,71,87
+Enemy of the State,71,78
+Going My Way,71,78
+Sleepless in Seattle,72,75
+Italian Job,73,80
+Sleepers,74,85
+A Beautiful Mind,75,93
+Wedding Crashers,75,70
+The Devil Wears Prada,75,76
+Julie and Julia,75,70
+Gigi,75,75
+The Avengers,75,100
+Crash,75,70
+Gladiator,76,87
+Frida,76,86
+Invictus,76,74
+Hamlet,76,59
+Gentleman's Agreement,76,77
+Philadelphia,77,89
+The Mask,77,67
+The Machinist,77,83
+Doubt,77,90
+Mighty Aphrodite,77,73
+The Virgin Queen,77,60
+The King and I,78,54
+Sin City,78,78
+Braveheart,78,85
+Blind Side,78,40
+Seven,79,98
+The Pirates of Caribbean,79,86
+The Hangover,79,84
+Sophie's Choice,79,86
+Bus Stop,79,62
+Cinderella Man,80,91
+American Gangster,80,87
+The French Lieutenant's Woman,80,68
+The Untouchables,80,89
+A Man For All Seasons,80,87
+Star Wars,80,65
+Hud,80,89
+High Society,80,83
+The Big Lebowski,80,94
+Few Good Men,81,89
+The Hours,81,85
+Last Tango in Paris,81,76
+Goodbye Mr Chips,81,88
+Driving Miss Daisy,81,82
+Dances with Wolves,81,87
+Oceans Eleven,82,79
+Die Hard,82,86
+GoldenEye,82,83
+Mogambo,82,55
+Finding Neverland,83,87
+The Mask of Zorro,83,72
+Bourne Identity,83,93
+Mean Girls,83,66
+The Hunger Games,84,81
+Lethal Weapon,84,85
+Scarface,84,94
+Jerry Maguire,85,79
+The Sixth Sense,85,89
+Sound of Music,85,91
+JFK,85,89
+My Cousin Vinny,85,87
+As Good As it Gets,86,87
+Mystic River,87,89
+X Men: First Class,87,87
+Gandhi,87,92
+Field of Dreams,87,87
+Titanic,88,69
+The Dark Knight,88,90
+Kramer vs. Kramer,88,89
+Dial M for Murder,88,92
+Scent of a Woman,88,93
+Ted,88,99
+Terms of Endearment,88,84
+Ben-Hur,88,89
+What's Eating Gilbert Grape,89,89
+Ali,89,83
+Leaving Las Vegas,89,85
+Three Musketeers,89,57
+From Here to Eternity,89,84
+How Green Was My Valley,89,82
+Rain Man,90,90
+MASH,90,84
+The Lion In Winter,90,90
+Edward Scissorhands,91,91
+The Departed,91,94
+The Fighter,91,89
+Departed,91,94
+Sabrina,91,89
+Mrs Miniver,91,86
+Million Dollar Baby,91,90
+The Last Emperor,91,88
+Mrs. Miniver,91,86
+Shakespeare in Love,92,80
+Rocky,92,68
+Moonstruck,92,81
+Silver Linings Playbook,92,86
+To Sir With Love,92,88
+The Sting,92,95
+Ordinary People,92,88
+Road to Morocco,92,79
+Eternal Sunshine of the Spotless Mind,93,94
+Enchanted,93,80
+Midnight in Paris,93,82
+The Deer Hunter,93,92
+Superman,93,86
+The Apartment,93,94
+American Hustle,93,74
+Speed,93,76
+Bourne Ultimatum,94,91
+Pulp Fiction,94,96
+Milk,94,89
+In the Heat of the Night,94,92
+For a Few Dollars More,94,94
+Silence of the Lambs,94,95
+West Side Story,94,84
+The Bridge on The River Kwai,94,94
+Mr Smith Goes To Washington,94,94
+To Kill a Mockingbird,94,93
+No Country for Old Men,94,86
+Apollo 13,95,86
+Gone With The Wind,95,93
+Unforgiven,95,94
+Dirty Harry,95,90
+Escape From Alcatraz,95,85
+The Accused,95,79
+My Fair Lady,95,90
+Guns of Navarone,95,86
+The Lord of the Rings: The Return of the King,95,86
+Amadeus,95,95
+Catch Me If You Can,96,89
+Big Sleep,96,91
+High Noon,96,89
+An American In Paris,96,79
+Some Like It Hot,96,94
+Double Indemnity,96,95
+The Stranger,96,79
+From Russia With Love,96,84
+Argo,96,90
+Goodfellas,96,97
+Good Will Hunting,97,94
+Casablanca,97,95
+Dog Day Afternoon,97,90
+Gentlemen Prefer Blondes,97,83
+Schindler's List,97,97
+You Can't Take It With You,97,89
+The Hurt Locker,97,84
+It Happened One Night,98,94
+The French Connection,98,88
+Roman Holiday,98,94
+Annie Hall,98,93
+Patton,98,94
+The Godfather Part II,99,97
+Dr Strangelove,99,94
+Lawrence of Arabia,99,93
+Maltese Falcon,100,92
+Rear Window,100,95
+Lilies of the Field,100,86
+The Godfather,100,98
+On the Waterfront,100,95
+Singin in the Rain,100,95
+The Odd Couple,100,89
+Mary Poppins,100,86
+Kind Hearts and Coronets,100,94
+Cool Hand Luke,100,95
+All About Eve,100,95
+How to Steal a Million,100,89
+The Philadelphia Story,100,93
+Rebecca,100,92
